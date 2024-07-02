@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kouekamluc 
-- 👀 I’m interested in python programming and web development framework 
+- 👀 I’m interested in python programming and web development frameworks 
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on web development project 
 - 📫 How to reach me +237681501073
